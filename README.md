@@ -17,7 +17,7 @@
 ## Some technologies that I have used and use 💻 🚀
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br/>
