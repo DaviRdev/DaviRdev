@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=00F71E&width=435&lines=My+name+is+Davi%2C+I'm+24+years+old+and+I'm+from+Brazil." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=00F71E&width=435&lines=My+name+is+Davi%2C+I'm+25+years+old+and+I'm+from+Brazil." alt="Typing SVG" /></a>
 
 <br>
 <br>
